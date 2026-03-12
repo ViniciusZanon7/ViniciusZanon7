@@ -122,3 +122,39 @@ Aqui você encontrará alguns dos projetos que venho desenvolvendo durante meus 
 <br/>
 
 ---
+
+<!-- BANNER -->
+<div align="center">
+  <p align="center">
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinedzanon/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vined.zanon/)
+
+</div>
+
+----
+
+<div align="center">
+
+<h3>Statistics</h3>
+</div>
+
+---
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusZanon7&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusZanon7&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&border_color=ffffff"/>
+
+</p>
+
+---
+
+</br>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusZanon7&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
+
+</p>
