@@ -79,11 +79,11 @@ Aqui você encontrará alguns dos projetos que venho desenvolvendo durante meus 
 />
 <img
     align="left"
-    alt="C++"
-    title="C++"
+    alt="React"
+    title="React"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
 />
 <img
     align="left"
@@ -100,14 +100,6 @@ Aqui você encontrará alguns dos projetos que venho desenvolvendo durante meus 
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-/>
-<img
-    align="left"
-    alt="Python"
-    title="Python"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
 />
 <img
     align="left"
